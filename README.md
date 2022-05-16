@@ -2,7 +2,8 @@
 
 
 - 🔭 Atualmente Trabalho como Analista Técnico
-- 🤔 Estudando JavaScript
+- 🤔 Estudando Phyton
+-
 
 
 <div align="center">
