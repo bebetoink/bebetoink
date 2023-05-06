@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente Trabalho como Analista Técnico
 
--
+
 
 <div align="center">
   <a href="https://github.com/bebetoink">
