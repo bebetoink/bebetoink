@@ -1,7 +1,7 @@
 ### Olá Eu sou Humberto 👋
 
 
-- 🔭 Atualmente Trabalho como Analista Técnico
+
 
 
 
